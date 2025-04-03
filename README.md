@@ -6,7 +6,7 @@ This **interactive dashboard** analyzes the relationship between **sleep pattern
 ## 📊 Features & Visualizations  
 
 ### 📌 **Key Metrics (Cards)**  
-- 🟢 **Total Individuals:** `374`  
+- 🟢 **Total Individuals:** `374`   
 - 🔴 **Average Stress Level:** `5.39`  
 
 ### 📈 **Visuals & Insights**  
