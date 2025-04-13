@@ -1,6 +1,6 @@
 # 💤 Sleep Health Lifestyle Analytics Dashboard   
         
-## 📌 Overview       
+## 📌 Overview        
 This **interactive dashboard** analyzes the relationship between **sleep patterns, stress levels, occupations, and health metrics**. It provides key insights into **sleep disorders, stress levels across age groups, and correlations with heart rate and blood pressure**.    
   
 ## 📊 Features & Visualizations   
