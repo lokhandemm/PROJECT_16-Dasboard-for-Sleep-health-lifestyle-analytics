@@ -9,7 +9,7 @@ This **interactive dashboard** analyzes the relationship between **sleep pattern
 - 🟢 **Total Individuals:** `374`   
 - 🔴 **Average Stress Level:** `5.39`  
 
-### 📈 **Visuals & Insights**  
+### 📈 **Visuals & Insights**   
 
 #### **1️⃣ Stress Levels Across Age (Bar Chart)**  
 🔹 Higher stress levels observed in late 20s to early 30s.  
